@@ -84,7 +84,8 @@ def autograding(json_input) :
             input_file["score"] = 2
 
     print(input_file)
-    return input_file
+    output = json.dumps(str(input_file))
+    return output
 
 
 #sample call
