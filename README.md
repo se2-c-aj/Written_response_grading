@@ -6,4 +6,4 @@
 
 3. Run by using command : python gram_check.py
 
-4. Returns python dictionary with score and other data (number of grammatical mistakes, corrected text from grammar checker)
+4. Returns json_string with score and other data (number of grammatical mistakes, corrected text from grammar checker)
